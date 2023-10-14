@@ -5,6 +5,9 @@
 <a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/leticiamoraesdossantos)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div> 
 
+ ## <div align="center">   
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-m-santos&layout=compact&hide_border=true&title_color=00CED1&text_color=00CED1&bg_color=FFFFFF" />
+</div>
 
   ## Estudando neste momento :
 <div style="display: inline_block">
